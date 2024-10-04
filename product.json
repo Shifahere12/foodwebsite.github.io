@@ -1,0 +1,40 @@
+
+[
+    {
+        "id": 1,
+        "name": "DELICIOUS",
+        "price": 520,
+        "image": "images/1a.png"
+    },
+    {
+        "id": 2,
+        "name": "FRIED ITEM",
+        "price": 220,
+        "image": "images/2 (1).PNG"
+    },
+    {
+        "id": 3,
+        "name": "DIET SPECIAL PLATE",
+        "price": 250,
+        "image": "images/3.PNG"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "BREAKFAST PLATE",
+        "price": 420,
+        "image": "images/food-menu-2.png"
+    },
+    {
+        "id": 5,
+        "name": "SPICY FRIED CHICKEN",
+        "price": 120,
+        "image": "images/food-menu-3.png"
+    },
+    {
+        "id": 6,
+        "name": "STAKE ",
+        "price": 120,
+        "image": "images/promo-1.png"
+    }
+]
